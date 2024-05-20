@@ -1,6 +1,6 @@
 # Hola 👋, soy Katherine Medina Bahamondes
 
-¡Hola!
+¡Hola! Soy Katherine Medina vivo en Chile, actualmente me dedico al Análisis de datos en una institución educativa.
 
 Mis estudios previos están relacionados a la Administración, poseo titulo de Ingenieria en Administración de Empresas, tengo conocimientos en inmobiliarias y actualmente soy estudiante de JavaScript FullStack en DesafíoLatam Chile buscando ampliar mis conocimientos, enfocándolos a otras areas de interés como son las tecnologías.
 
